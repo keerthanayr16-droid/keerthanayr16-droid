@@ -253,23 +253,6 @@ class Keerthana:
 
 ---
 
-## 🎯 2026 Goals
-
-<div align="center">
-
-| # | Goal | Status |
-|:---:|:---|:---:|
-| 1 | 🚀 Build 10+ AI Projects | 🔄 In Progress |
-| 2 | 🤖 Master Agentic AI Frameworks | 🔄 In Progress |
-| 3 | 🧠 Strengthen Machine Learning Skills | 🔄 In Progress |
-| 4 | 📊 Master Power BI & Data Analytics | 🔄 In Progress |
-| 5 | 🌐 Build Personal Portfolio Website | ⏳ Planned |
-| 6 | 🤝 Contribute to Open Source | ⏳ Planned |
-| 7 | 💼 Secure an AI / Data Science Internship | 🎯 Target |
-| 8 | 📝 Write Technical Blog Posts | ⏳ Planned |
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
@@ -322,11 +305,23 @@ class Keerthana:
 
 ---
 
-## 💡 Dev Quote
+## 💬 My Philosophy
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<table border="0">
+<tr>
+<td align="center" width="100%">
+
+> 🧠 *"Data is not just numbers — it's the language of insight."*
+> 
+> 🤖 *"The best AI doesn't replace human thinking — it amplifies it."*
+>
+> 🚀 *"Every project I build teaches me something no classroom ever could."*
+
+</td>
+</tr>
+</table>
 
 </div>
 
