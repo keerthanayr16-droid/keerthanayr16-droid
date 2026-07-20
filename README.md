@@ -274,30 +274,7 @@ class Keerthana:
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=keerthanayr16-droid&show_icons=true&theme=tokyonight&border_color=7C3AED&title_color=C084FC&icon_color=C084FC&text_color=E2E8F0&bg_color=0F0F1A&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=keerthanayr16-droid&theme=tokyonight&border=7C3AED&ring=C084FC&fire=F59E0B&currStreakLabel=C084FC&background=0F0F1A" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanayr16-droid&layout=compact&theme=tokyonight&border_color=7C3AED&title_color=C084FC&text_color=E2E8F0&bg_color=0F0F1A&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=keerthanayr16-droid&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
